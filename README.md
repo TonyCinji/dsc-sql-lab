@@ -1,8 +1,7 @@
 # SQL - Cumulative Lab
 
 ## Introduction
-
-In this lesson, we'll run through some practice questions to reinforce your knowledge of SQL queries.
+# You will find answers on the dsc-sql-lab
 
 ## Objectives
 
