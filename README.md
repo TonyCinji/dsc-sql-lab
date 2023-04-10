@@ -1,7 +1,8 @@
 # SQL - Cumulative Lab
 
+# You will find answers on the dsc-sql-lab.ipynb file
+
 ## Introduction
-# You will find answers on the dsc-sql-lab
 
 ## Objectives
 
